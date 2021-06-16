@@ -12,3 +12,4 @@ Data mining is the process of finding anomalies, patterns and correlations withi
 * [05-Naive Bayes](https://github.com/nicemare/DataMining/tree/main/DM-05-Naive%20Bayes)
 * [06-KNN](https://github.com/nicemare/DataMining/tree/main/DM-06-KNN)
 * [07-DecisionTree](https://github.com/nicemare/DataMining/tree/main/DM-07-Decisiontree)
+* [DMTA](https://github.com/nicemare/DataMining/tree/main/DM_TA)
